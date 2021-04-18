@@ -19,3 +19,16 @@ Example 1 shows a demo of the application of Siamese tracker on the UAVs. Based 
 
 
 In the left figure, a person is tracked as he runs in random directions. In this process, the aspect ratio of the target changes accordingly and the tracker tackles the challenge. In the middle figure, a car with a high speed (about 60 km/h ) is tracked. In this process, the scale of the target changes accordingly and the tracker tackles the challenge. In the right figure, a car is tracked under low illumination. The tracker tackles the partial occlusion challenge and prompts the user that the target is lost when the target is fully occluded.
+
+# Results
+The raw results are in "./result/"
+
+#Train or Test on PC
+If you want to train or test on PC, please use the code in "./on_PC/". The code is based on the [PySOT](https://github.com/STVIR/pysot) and the [SiamBAN](https://github.com/hqucv/siamban)
+
+#Test on TX2
+In order to deploy on TX2 conveniently, we compile the tracker in to ".so" format library on TX2. if you want to test on TX2, please use the code in "./on_TX2/". 
+
+
+
+
