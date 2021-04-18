@@ -9,6 +9,6 @@
   <p>Example 1.</p>
 </div>
 
-Example 1 shows a demo of the application of Siamese tracker on the UAVs. Based on the proposed Siamese tracker, we make a program of two UAVs accompanying flight. One UAV flies at random and another follow it by directing of Siamese tracker. Images on the left figure are the first perspective of the following UAV and images on the right figure are the third perspective captured from the ground.
+Example 1 shows a demo of the application of Siamese tracker on the UAVs. Based on the proposed Siamese tracker, we make a program of two UAVs accompanying flight. One UAV flies at random and another follows it by directing of Siamese tracker. Images on the left figure are the first perspective of the following UAV and images on the right figure are the third perspective captured from the ground.
 
 In the first row, a person is tracked as he runs in random directions. In this process, the aspect ratio of the target changes accordingly and the tracker tackles the challenge. In the second row, a car with a high speed (about 60 km/h ) is tracked. In this process, the scale of the target changes accordingly and the tracker tackles the challenge. In the third row, a car is tracked under low illumination. The tracker tackles the partial occlusion challenge and prompts the user that the target is lost when the target is fully occluded.
