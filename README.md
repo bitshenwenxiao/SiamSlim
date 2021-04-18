@@ -4,8 +4,8 @@
 
  We deploy the Siamese tracker on the UAVs, and then conduct flight tests on the outskirts of Beijing, China. Some images recorded in the flight test are shown in these figures. In various scenes and illumination conditions, our Siamese tracker tracks the objects smoothly. The pan tilt rotates by the directing of the tracker, to make the target near the image center.
 <div align="center">
-  <img src="demo/5.gif" width="200px" />
-  <img src="demo/6.gif" width="200px" />
+  <img src="demo/5.gif" width="400px" />
+  <img src="demo/6.gif" width="586px" />
   <p>Example 1.</p>
 </div>
 
