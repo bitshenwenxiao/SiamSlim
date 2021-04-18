@@ -24,7 +24,7 @@ In the left figure, a person is tracked as he runs in random directions. In this
 
 The raw results are in "./result/"
 
-# Train or Test on PC
+# Train or test on PC
 
 If you want to train or test on PC, please use the code in "./on_PC/". The code is based on the [PySOT](https://github.com/STVIR/pysot) and the [SiamBAN](https://github.com/hqucv/siamban)
 
