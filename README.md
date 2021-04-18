@@ -38,6 +38,12 @@ python cam.py
 
 In order to deploy on TX2 conveniently, we compile the tracker in to ".so" format library on TX2. if you want to test on TX2, please use the code in "./on_TX2/". 
 
+## Webcam demo on TX2
+```bash
+cd on_TX2
+python cam.py
+```
+
 
 
 
