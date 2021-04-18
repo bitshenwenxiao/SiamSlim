@@ -28,7 +28,7 @@ The raw results are in "./result/"
 
 If you want to train or test on PC, please use the code in "./on_PC/". The code is based on the [PySOT](https://github.com/STVIR/pysot) and the [SiamBAN](https://github.com/hqucv/siamban)
 
-## Webcam demon on PC
+## Webcam demo on PC
 ```bash
 cd on_PC
 python cam.py
