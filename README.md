@@ -11,9 +11,9 @@
 
 Example 1 shows a demo of the application of Siamese tracker on the UAVs. Based on the proposed Siamese tracker, we make a program of two UAVs accompanying flight. One UAV flies at random and another follows it by directing of Siamese tracker. Images on the left figure are the first perspective of the following UAV and images on the right figure are the third perspective captured from the ground.
 <div align="center">
-  <img src="demo/3.gif" width="275px" />
-  <img src="demo/2.gif" width="275px" />
-  <img src="demo/4.gif" width="275px" />
+  <img src="demo/3.gif" width="270px" />
+  <img src="demo/2.gif" width="270px" />
+  <img src="demo/4.gif" width="270px" />
   <p>Example 2.</p>
 </div>
 
