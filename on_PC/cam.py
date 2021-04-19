@@ -53,7 +53,7 @@ def draw_circle(event, x, y, flags, param):
 parser = argparse.ArgumentParser(description='tracking demo')
 parser.add_argument('--config', type=str, help='config file', default='./experiments/slim_alex/config.yaml')
 args = parser.parse_args()
-def test(score):
+def test():
     
     global x1, y1, x2, y2, drawing, init, flag, image, getim, start
     cfg.merge_from_file(args.config)
@@ -96,7 +96,7 @@ def test(score):
         cv2.waitKey(1)
 
 if __name__ == '__main__':
-    test(100)
+    test()
 
 
 
