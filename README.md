@@ -1,8 +1,8 @@
 # SiamSlim
 
-**SiamSlim** implements a real-time single object tracking algorithm wchich can be deployed on board of UAVs, as presented in our paper (the link of paper will be updated after our paper publication). The code is based on the [PySOT](https://github.com/STVIR/pysot) and the [SiamBAN](https://github.com/hqucv/siamban)
+**SiamSlim** implements a real-time single object tracking algorithm wchich can be deployed on board of UAVs, as presented in our paper (the link of paper will be updated after our paper publication). The code is based on the [PySOT](https://github.com/STVIR/pysot) and the [SiamBAN](https://github.com/hqucv/siamban).
 
- We deploy the Siamese tracker on the UAVs, and then conduct flight tests on the outskirts of Beijing, China. Some images recorded in the flight test are shown in these figures. In various scenes and illumination conditions, our Siamese tracker tracks the objects smoothly. The pan tilt rotates by the directing of the tracker, to make the target near the image center.
+We deploy the Siamese tracker on the UAVs, and then conduct flight tests on the outskirts of Beijing, China. Some images recorded in the flight test are shown in these figures. In various scenes and illumination conditions, our Siamese tracker tracks the objects smoothly. The pan tilt rotates by the directing of the tracker, to make the target near the image center.
 <div align="center">
   <img src="demo/5.gif" width="320px" />
   <img src="demo/6.gif" width="469px" />
